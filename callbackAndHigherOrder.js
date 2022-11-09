@@ -304,4 +304,4 @@ console.log(addTen(5));
 
 // CODE HERE
 
-const addNumber = addingFactory
+const addSeven = addingFactory(7);
